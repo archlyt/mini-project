@@ -1,0 +1,6 @@
+
+1. Uninstall suspicious applications.
+2. Reset app permissions.
+3. Run a reputable antivirus scan.
+4. Change passwords if phishing detected.
+5. Backup important data and consider a factory reset.
